@@ -18,8 +18,8 @@ Auto-regressive models have made significant progress in the realm of language g
 ### Setup
 
 ```bash
-git clone git@github.com:MS-Diffusion/MS-Diffusion.git
-cd msdiffusion
+git clone https://github.com/fusiming3/MARS.git   
+cd MARS
 pip install -r requirements.txt
 ```
 
