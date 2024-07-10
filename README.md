@@ -39,7 +39,7 @@ python inference.py
 ## Todo List
 
 - [x] paper
-- [x] inference code
+- [ ] inference code
 - [ ] model weights
 - [ ] training code
 
