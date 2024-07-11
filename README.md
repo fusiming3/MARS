@@ -14,7 +14,7 @@
 <!-- # magic-edit.github.io -->
 
 <p align="center">
-  <h2 align="center">MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis</h2>
+  <h2 align="center">MARS: Mixture of Auto-Regressive Models for <br>Fine-grained Text-to-image Synthesis</h2>
   <p align="center">
     <a><strong>Wanggui He<sup>1,*</sup>, </strong></a>
     <a href="https://github.com/fusiming3"><strong>Siming Fu<sup>1,*</sup>, </strong></a>
