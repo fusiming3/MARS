@@ -22,6 +22,7 @@
     <a><strong>Xierui Wan<sup>2,+</sup> , </strong></a>
     <a><strong>Wenyi Xiao, <sup>2,+</sup> </strong></a>
     <a><strong>Fangxun Shu<sup>1,+</sup>,  </strong></a>
+    <br>
     <a><strong>Yi Wang<sup>2</sup> , </strong></a>
     <a><strong>Lei Zhang<sup>2</sup>, </strong></a>
     <a><strong>Zhelun Yu<sup>3</sup>,  </strong></a>
