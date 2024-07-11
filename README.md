@@ -47,7 +47,7 @@
     </br>
     </br>
         <a href="https://arxiv.org/pdf/2407.07614v1">
-        <img src='https://img.shields.io/badge/arxiv-OIR-blue' alt='Paper PDF'></a>
+        <img src='https://img.shields.io/badge/arxiv-MARS-blue' alt='Paper PDF'></a>
   </p>
 </p>
 
