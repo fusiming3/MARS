@@ -35,7 +35,6 @@
     <br>
     <sup>*</sup>Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp <sup>+</sup>Core contributor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp <sup>†</sup>Corresponding author
     </br>
-    </br>
         <a href="https://arxiv.org/pdf/2407.07614v1">
         <img src='https://img.shields.io/badge/arxiv-MARS-blue' alt='Paper PDF'></a>
   </p>
