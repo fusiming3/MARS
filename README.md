@@ -29,7 +29,7 @@
     <a><strong> Haoyuan Li<sup>2</sup> , </strong></a>
     <a><strong>Ziwei Huang<sup>2</sup>,  </strong></a>
     <a><strong>LeiLei Gan<sup>2</sup>,  </strong></a>
-    <a><strong>Hao Jiang<sup>1,†</sup> </strong></a>
+    <a href="https://scholar.google.nl/citations?user=0TvdOEcAAAAJ&hl=en"><strong>Hao Jiang<sup>1,†</sup> </strong></a>
     <br>
     <sup>1</sup> Alibaba Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup> Zhejiang University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3</sup> Fudan University
     <br>
