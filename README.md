@@ -33,7 +33,7 @@
     <sup>1</sup> Alibaba Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup> Zhejiang University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3</sup> Fudan University
     <br>
     <br>
-    *Equal contribution +Core contributor †Corresponding author
+    <sup>*</sup>Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp <sup>+</sup>Core contributor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp <sup>†</sup>Corresponding author
     </br>
     </br>
         <a href="https://arxiv.org/pdf/2407.07614v1">
