@@ -19,7 +19,7 @@
     <a><strong>Wanggui He<sup>1,*</sup>, </strong></a>
     <a href="https://github.com/fusiming3"><strong>Siming Fu<sup>1,*</sup>, </strong></a>
     <a href="https://xiaobul.github.io/"><strong>Mushui Liu<sup>2,*</sup>, </strong></a>
-    <a><strong>Xierui Wan<sup>2,+</sup> , </strong></a>
+    <a><strong>Xierui Wang<sup>2,+</sup> , </strong></a>
     <a><strong>Wenyi Xiao, <sup>2,+</sup> </strong></a>
     <a><strong>Fangxun Shu<sup>1,+</sup>,  </strong></a>
     <br>
