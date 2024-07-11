@@ -1,5 +1,11 @@
 ## <div align="center"> <i>MARS</i>: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis </div>
 
+<div align="center">
+
+  
+  <a href="https://arxiv.org/pdf/2407.07614v1"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2406.07209&color=B31B1B&logo=arxiv"></a> &ensp;
+
+</div>
 
 ---
 
