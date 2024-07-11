@@ -16,19 +16,19 @@
 <p align="center">
   <h2 align="center">MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis</h2>
   <p align="center">
-    <a><strong>Wanggui He, <sup>1,*</sup> </strong></a>
-    <a href="https://github.com/fusiming3"><strong>Siming Fu, <sup>1,*</sup> </strong></a>
-    <a href="https://xiaobul.github.io/"><strong>Mushui Liu, <sup>2,*</sup> </strong></a>
-    <a><strong>Xierui Wan, <sup>2,+</sup> </strong></a>
+    <a><strong>Wanggui He<sup>1,*</sup>, </strong></a>
+    <a href="https://github.com/fusiming3"><strong>Siming Fu<sup>1,*</sup>, </strong></a>
+    <a href="https://xiaobul.github.io/"><strong>Mushui Liu<sup>2,*</sup>, </strong></a>
+    <a><strong>Xierui Wan<sup>2,+</sup> , </strong></a>
     <a><strong>Wenyi Xiao, <sup>2,+</sup> </strong></a>
-    <a><strong>Fangxun Shu, <sup>1,+</sup> </strong></a>
-    <a><strong>Yi Wang, <sup>2</sup> </strong></a>
-    <a><strong>Lei Zhang, <sup>2</sup> </strong></a>
-    <a><strong>Zhelun Yu, <sup>3</sup> </strong></a>
-    <a><strong> Haoyuan Li, <sup>2</sup> </strong></a>
-    <a><strong>Ziwei Huang, <sup>2</sup> </strong></a>
-    <a><strong>LeiLei Gan, <sup>2</sup> </strong></a>
-    <a><strong>Hao Jiang, <sup>1,†</sup> </strong></a>
+    <a><strong>Fangxun Shu<sup>1,+</sup>,  </strong></a>
+    <a><strong>Yi Wang<sup>2</sup> , </strong></a>
+    <a><strong>Lei Zhang<sup>2</sup>, </strong></a>
+    <a><strong>Zhelun Yu<sup>3</sup>,  </strong></a>
+    <a><strong> Haoyuan Li<sup>2</sup> , </strong></a>
+    <a><strong>Ziwei Huang<sup>2</sup>,  </strong></a>
+    <a><strong>LeiLei Gan<sup>2</sup>,  </strong></a>
+    <a><strong>Hao Jiang<sup>1,†</sup> </strong></a>
     <br>
     <sup>1</sup> Alibaba Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup> Zhejiang University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3</sup> Fudan University
     <br>
