@@ -68,14 +68,7 @@ pip install -r requirements.txt
 ### Model
 
 
-
-Download our checkpoint from [MARS].
-
-### Inference
-
-```bash
-run inference.ipynb
-```
+The code and ckpts are currently undergoing internal review. Please stay tuned!
 
 
 ## Todo List
